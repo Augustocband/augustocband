@@ -1,5 +1,14 @@
 ## Oi, meu nome é Augusto César de Souza Bandeira e sou estudante de ciência da computação
 
+#                                                                    *MEU PC*
+
+      Processador AMD Ryzen 3 2200 3,5Ghz 
+      Placa de Video Radeon RX 560 Series
+      Radeon Red Dragon DDR4-2400 8GB 
+      Placa Mãe ASRock A320M-HD
+      GB(1x8) RAM 1200.6mhz
+      Monitor LED 1600x900" 60Hz
+      Pro Gamer 29UM69G Lg CX 1 UN
 <!--
 **Augustocband/augustocband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
