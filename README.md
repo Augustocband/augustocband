@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oi, meu nome é Augusto César de Souza Bandeira e sou estudante de ciência da computação
 
 <!--
 **Augustocband/augustocband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
