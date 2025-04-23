@@ -2,7 +2,7 @@
 
 Aprendendo de pouquinho em pouquinho :)
 
-![images](https://github.com/user-attachments/assets/378dee0d-2e64-4946-b04a-f3574b36451a)
+![images (1)](https://github.com/user-attachments/assets/6db42e9a-1a54-4420-8270-7e9aa6dec19e)
 
 <!--
 **Augustocband/augustocband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
