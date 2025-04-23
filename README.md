@@ -1,4 +1,6 @@
-## Oi, meu nome é Augusto César de Souza Bandeira, tenho 19 anos, e sou estudante de ciência da computação, programação e banco de dados.
+## Oi, meu nome é Augusto César de Souza Bandeira, tenho 19 anos, e sou estudante de ciência da computação e programação
+
+Atualmente aprendendo Visual Studio Code (React,vite,jsx,javascript,node,ionic,modules,angular e html), banco de dados, desenvolvimento de apps e coisas envolvento software sei lá.
 
 Aprendendo de pouquinho em pouquinho :)
 
